@@ -1,0 +1,35 @@
+{
+  "data": [{
+      "id": "1",
+      "name": "Test 1",
+      "age": "20",
+      "city": "Hyd",
+      "status": "LOW"
+    },
+    {
+      "id": "2",
+      "name": "Test 2",
+      "age": "30",
+      "city": "Delhi",
+      "status": "HIGH"
+    }, {
+      "id": "3",
+      "name": "Test 3",
+      "age": "32",
+      "city": "Patna",
+      "status": "MEDIUM"
+    }, {
+      "id": "4",
+      "name": "Test 4",
+      "age": "35",
+      "city": "Chennai",
+      "status": "LOW"
+    }, {
+      "id": "5",
+      "name": "Test 5",
+      "age": "24",
+      "city": "Bangalore",
+      "status": "HIGH"
+    }
+  ]
+}
